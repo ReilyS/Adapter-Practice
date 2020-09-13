@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*  Author: Reily Stanford
+ *  Date: 09/12/2020
+ *  File: Program.cs
+ *  Description:
+ */
+
+using System;
 
 namespace Adapter_Practice
 {
