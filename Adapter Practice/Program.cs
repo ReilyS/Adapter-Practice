@@ -2,6 +2,8 @@
  *  Date: 09/12/2020
  *  File: Program.cs
  *  Description:
+ *      This file creates a Bear object and two ToyBear objects with one being 
+ *      made by an adapter. Every function of the objects are then called.
  */
 
 using System;
